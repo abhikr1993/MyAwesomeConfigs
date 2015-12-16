@@ -1,3 +1,0 @@
-# MyAwesomeConfigs
-
-Just a readme
